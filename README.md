@@ -1,4 +1,4 @@
-# Lista de tarefas
+# Lista de afazeres
 
 On October 6, 2020, I talked about functional programming with Clojure in the CaquiCoders YouTube channel.
 The talk is available [here](https://www.youtube.com/watch?v=ORcTVFDxAUU)
